@@ -1,0 +1,15 @@
+{
+  "name": "reactive-x",
+  "version": "1.0.0",
+  "description": "ReactiveX is a library for composing asynchronous and event-based programs by using observable sequences.",
+  "main": "streams.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^7.8.1"
+  }
+}
